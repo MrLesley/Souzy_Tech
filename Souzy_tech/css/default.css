@@ -544,7 +544,7 @@ label {
     height: 560px;
     margin: 0;
     padding: 0;
-    background-image: url('../img/page-header-bg.png');
+    background-image: url('../img/main/back.gif');
     -webkit-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
