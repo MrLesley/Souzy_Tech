@@ -1,8 +1,8 @@
 /*
-Theme Name: TRICON
-Theme URI: http://perculatheme.com/html/tricon/
-Author Name: Arifa Afsana Antha
-Author URI: http://perculatheme.com
+Theme Name: Souzy International - Tech
+Theme URI: http://souzy.tech
+Author Name: Sarah Marion
+Author URI: http://souzy.tech
 Version: 1.0
 */
 
@@ -173,7 +173,7 @@ Version: 1.0
     background-color: transparent;
     border-radius: 0px;
     border: none;
-    padding-top: 60px;
+    /* padding-top: 60px; */
     margin-bottom: 0px;
     -webkit-transition: all 0.5s ease-in-out;
     -moz-transition: all 0.5s ease-in-out;
@@ -182,7 +182,7 @@ Version: 1.0
     transition: all 0.5s ease-in-out;
 }
 .navbar> .container .navbar-brand {
-    margin-right: 120px;
+    margin-right: 0px;
     padding: 20px 0px;
 }
 .navbar-default .navbar-nav > li {
@@ -196,7 +196,7 @@ Version: 1.0
     letter-spacing: 0px;
     color: #fff;
     padding: 25px 19px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 .navbar-right .form-group {
     width: 150px;
